@@ -2,7 +2,9 @@
 
 This is the official repository of the revised datasets FUNSD-r and CORD-r, introduced in EMNLP 2023 paper `Reading Order Matters: Information Extraction from Visually-rich Documents by Token Path Prediction`. 
 
-![A comparison of the original (left) and revised (right) layout annotation. ](imgs/cmp.png)
+<div align=center>
+<img src="imgs/cmp.png" title="A comparison of the original (left) and revised (right) layout annotation. ">
+</div>
 
 ## Datasets
 
@@ -94,13 +96,17 @@ One sample layout+NER annotation is displayed below, in which:
 }
 ```
 
-The benchmarks are available at Paperwithcode. [[FUNSD-r]](https://paperswithcode.com/dataset/funsd-r) [[CORD-r]](https://paperswithcode.com/dataset/cord-r)
+The benchmarks are available at Papers With Code. [[FUNSD-r]](https://paperswithcode.com/dataset/funsd-r) [[CORD-r]](https://paperswithcode.com/dataset/cord-r)
 
 ## Examples
 
-![An example from FUNSD-r. ](imgs/funsd-r-0000971160.png)
+<div align=center>
+<img src="imgs/funsd-r-0000971160.png" title="An example from FUNSD-r. ">
+</div>
 
-![An example from CORD-r. ](imgs/cord-r-train_0000.png)
+<div align=center>
+<img src="imgs/cord-r-train_0000.png" title="An example from CORD-r. ">
+</div>
 
 ## Citation
 
